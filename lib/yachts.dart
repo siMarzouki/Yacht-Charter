@@ -1,0 +1,36 @@
+//list of yachts
+final yachts = [
+  {
+    "name": "REGIS",
+    "description": "60' | 18.86m   Aicon   2010",
+    "photo": "y1",
+    "rate": 3,
+    "reviewers": "1.2K",
+    "guests": 8,
+    "cabins": 4,
+    "crew": 2,
+    "dayPrice": 1489,
+  },
+  {
+    "name": "AQVA ",
+    "description": "72'1 |  21.98m   Spertini Alalunga    2015",
+    "photo": "y2",
+    "rate": 4,
+    "reviewers": "412",
+    "guests": 10,
+    "cabins": 5,
+    "crew": 3,
+    "dayPrice": 2190,
+  },
+  {
+    "name": "OASIS ",
+    "description": "75' /  24.25m   Sunseeker   2018",
+    "photo": "y3",
+    "rate": 5,
+    "reviewers": "268",
+    "guests": 12,
+    "cabins": 6,
+    "crew": 4,
+    "dayPrice": 3450,
+  },
+];
